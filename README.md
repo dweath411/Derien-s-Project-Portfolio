@@ -1,2 +1,4 @@
-# Derien-s-Project-Portfolio
-portfolio of all the projects I've done!
+# Deriens-Project-Portfolio
+
+This repository stores all the projects I've done! For continuous learning and ease of accessibility!
+
