@@ -19,4 +19,4 @@ This repository stores all the projects I've done! For continuous learning and e
 - [SQL Showcasing](https://github.com/dweath411/SQL-example-project): Homework project aimed at showcasing SQL use cases.
 
 ## Misc
-- [MY RESUME!](https://github.com/dweath411/resume): Fun version of my data science resume. [Click here](https://resume-rho-dun.vercel.app/) to see the actual resume, and the aforemnetioned hyperlink to see the code for it.
+- [MY RESUME](https://github.com/dweath411/resume)!: Fun version of my data science resume. [Click here](https://resume-rho-dun.vercel.app/) to see the actual resume, and the aforemnetioned hyperlink to see the code for it.
