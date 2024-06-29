@@ -3,7 +3,7 @@
 This repository stores all the projects I've done! For continuous learning and ease of accessibility!
 
 ## Data Science / ML Projects
-- [First Data Science Project](https://github.com/dweath411/proj1): Entry level project building a user prompting function to calculate gdp, population, and personal income.
+- [Economic Data by Region/First DS Project](https://github.com/dweath411/proj1): Entry level project building a user prompting function to calculate gdp, population, and personal income.
   
 - [Mulitvariate Analysis with GINI Coefficient and Happiness](https://github.com/dweath411/Multivariate-Analysis): Predictive modeling project intended on forecasting the happiness index of countries, integrating various data sources including the GINI index and geological data.
   
