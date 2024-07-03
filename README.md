@@ -9,6 +9,8 @@ This repository stores all the projects I've done! For continuous learning and e
   
 - [Predictive Modeling of House Prices in Iowa](https://github.com/dweath411/Predictive-Modeling-Project): Metric based predictive modeling project aimed at predicting housing prices in Iowa, applying various machine learning algorithms to the dataset, including KNN, GAMs, and more.
 
+- [Machine Learning DoorDash Delivery Duration](https://github.com/dweath411/ML-Delivery-Duration-Prediction): A DoorDash delivery duration prediction project, using multiple ML models, data visualization, analysis, and deep learning.
+
 ## Analysis / Statistics Projects
 - [Apex Legends Data Analysis](https://github.com/dweath411/Apex-Legends-Analysis): Analysis of in game statistics from the game Apex Legends, aimed at providing context of our play as a group.
 
