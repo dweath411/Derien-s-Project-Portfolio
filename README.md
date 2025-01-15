@@ -20,7 +20,10 @@ This repository stores all the projects I've done! For continuous learning and e
 
 - [SQL Showcasing](https://github.com/dweath411/SQL-example-project): Homework project aimed at showcasing SQL use cases. Tech used: RStudio, SQL, Excel, tidyverse.
 
-## Software Development
+## Software Development'
+- [Spotify Dashboard](https://github.com/dweath411/Spotify): Spotify Origin Radar is a web application that allows users to create personalized weekly playlists based on their existing Spotify library. It allows for playlist curation, analysis of listening habits, and playlist data export, and removing duplicate tracks from playlists. Tech used: Render, Python, SQL, HTML, CSS, Flask, websockets, SpotifyAPI.
+
+
 - [MY RESUME](https://github.com/dweath411/resume): Fun version of my data science resume. [Click here](https://resume-rho-dun.vercel.app/) to see the actual resume, and the aforemnetioned hyperlink to see the code for it. Tech used: Java, HTML, CSS, Vercel, VSCode.
 
 - [To-Do-List](https://github.com/dweath411/to-do-list-java): Introduction to software development semi-guided project. Creation of a simple to-do list application. Tech used: Java, HTML, CSS, VSCode, Git, Spring Boot, Thyme Leaf.
